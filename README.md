@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rupalakshmi Muthyala</h1>
 <h3 align="center">A passionate to work as a full stack developer</h3>
-<img align="right" alt="Coding" src="mages.lemonly.com/wp-content/uploads/2018/08/07150313/Homebase_Thumb_v01.gif">
+<img align="right" alt="Coding" width="400" src="https://images.lemonly.com/wp-content/uploads/2018/08/07150313/Homebase_Thumb_v01.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=204g1a3243&label=Profile%20views&color=0e75b6&style=flat" alt="204g1a3243" /> </p>
 
